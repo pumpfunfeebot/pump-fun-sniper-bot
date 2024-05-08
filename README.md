@@ -40,7 +40,9 @@ Pump.fun 是 Solana NFT 和代币的去中心化交易所。它是一个快速�
 
 ## 🛸 运行
 
-1. 安装node ( https://nodejs.org/en )
+1. 下载代码: `pump-fun-sniper-bot.zip`
+
+2. 安装node ( https://nodejs.org/en ) 如果尚未安装。
   
-2. 运行输入命令: `npm run buy` 
+3. 运行输入命令: `npm run buy` 
 
